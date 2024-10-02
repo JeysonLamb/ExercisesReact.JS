@@ -1,0 +1,27 @@
+# ExercisesReact.JS
+
+Este repositorio contiene una colección de ejercicios prácticos realizados en React.js. Está diseñado para mejorar y practicar habilidades de desarrollo con React, cubriendo desde conceptos básicos hasta avanzados.
+
+## Contenido
+
+- Componentes básicos
+- Manejo de estado con `useState`
+- Efectos secundarios con `useEffect`
+- Integración con APIs
+- Conversión de divisas
+
+## Instalación
+
+1. Clona el repositorio:
+   ``bash
+    git clone https://github.com/JeysonLamb/ExercisesReact.JS.git
+
+2. Instala dependecias:
+
+   ```bash
+   npm install
+
+3. Uso:
+
+   ``bash
+   git clone https://github.com/JeysonLamb/ExercisesReact.JS.git
