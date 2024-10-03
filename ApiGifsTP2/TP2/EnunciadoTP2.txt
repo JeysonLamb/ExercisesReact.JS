@@ -1,0 +1,44 @@
+# **Exercice #2 Hooks (UseEffects, UseStatus, Wouter)**
+
+Este proyecto es una práctica realizada en React.js donde se exploran los conceptos fundamentales de la biblioteca. El enfoque principal está en el uso de los hooks `useState` y `useEffect`, así como en la integración con APIs para mostrar datos dinámicos.
+
+## **Contenido**
+
+- **Componentes funcionales**: Creación y reutilización de componentes para estructurar la aplicación.
+-**Uso de hooks**:
+
+  - `useState` para el manejo del estado interno de los componentes.
+  - `useEffect` para realizar efectos secundarios como peticiones a APIs.
+- **API de GIFs**: Solicitud y renderizado dinámico de GIFs utilizando una API externa.
+- **React Router**: Implementación de navegación entre diferentes rutas de la aplicación.
+- **Estilos CSS**: Personalización de la apariencia visual de los componentes.
+
+## Funcionalidades
+
+- Mostrar una lista de GIFs basados en una palabra clave.
+- Navegación entre diferentes GIFs utilizando enlaces dinámicos.
+
+- Manejo del estado y renderizado condicional de la información.
+
+## **Aprendizaje**
+
+Este proyecto me permitió reforzar el uso de los hooks de React, manejar solicitudes a APIs, y entender cómo organizar un proyecto en React con rutas y componentes reutilizables
+
+## Instalación
+
+1. Clona el repositorio:
+
+   ```bash
+    git clone https://github.com/JeysonLamb/ExercisesReact.JS.git
+
+2. Instala dependecias:
+
+   ```bash
+   npm install wouter
+   npm install
+
+3. Uso:
+
+   ```bash
+   npm start
+   Iniciara un servidor en el puerto 3000
